@@ -1,0 +1,17 @@
+numpy==1.26.3
+pandas==2.1.3
+matplotlib
+seaborn
+wordcloud
+scikit-learn
+torch
+torchvision
+torchaudio
+transformers==4.44.2
+safetensors==0.4.2
+datasets
+optuna
+wandb
+sentencepiece
+accelerate==0.33.0
+evaluate
