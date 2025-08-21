@@ -68,7 +68,7 @@ The workflow is designed to be modular, reproducible, and adaptable to similar t
 ## Experiment Logs
 
 Weights & Biases logs are available in the `wandb/` folder on [Google Drive](https://drive.google.com/drive/folders/1IpnyNsAO3z_NymjV51WPvrUZG7sheQkm?usp=drive_link).
-To view experiment results, visit the public W&B project: [W&B Project Link]((https://wandb.ai/yagelalfasi-tau/projects))
+To view experiment results, visit the public W&B project: [W&B Project Link](https://wandb.ai/yagelalfasi-tau/projects)
 
 **Note:** The W&B logs include several projects, covering different hyperparameter ranges and experiments run from multiple computers over time.
 
