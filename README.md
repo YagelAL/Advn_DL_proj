@@ -59,9 +59,13 @@ This repository contains a comprehensive workflow for sentiment analysis on COVI
 - `data/train_df.csv`, `data/eval_df.csv`, `data/test_df.csv`: Cleaned and split datasets
 
 ## Results & Outputs
-- Model checkpoints: `checkpoints/`, `roberta_results_HF/`, `deberta_results_HF/`, `distillation_results/`
-- Evaluation results: `model_evaluation_results_HF_*.csv`, `test_set_results_*.csv`
-- Visualizations: EDA plots, word clouds
+## Experiment Logs
+
+Weights & Biases logs are available in the `wandb/` folder on [Google Drive](YOUR_DRIVE_LINK_HERE).
+To view experiment results, visit the public W&B project: [W&B Project Link](YOUR_WANDB_PROJECT_LINK)
+
+**Note:** The W&B logs include several projects, covering different hyperparameter ranges and experiments run from multiple computers over time.
+
 
 ## Requirements
 See `requirements.txt` for all required Python packages. Main dependencies:
