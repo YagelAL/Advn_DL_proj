@@ -1,5 +1,8 @@
 # Advanced Deep Learning Project: Sentiment Analysis of COVID-19 Tweets
 
+![Project Overview](image.jpg)
+
+
 ## Project Overview
 This repository provides a complete workflow for sentiment analysis on COVID-19 tweets using state-of-the-art transformer models. 
 The project combines both manual and automated training pipelines, incorporates model compression techniques including distillation, and includes comprehensive exploratory data analysis (EDA). 
