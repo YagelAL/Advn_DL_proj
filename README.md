@@ -95,7 +95,7 @@ See `requirements.txt` for all required Python packages. Main dependencies:
 
 ### 1. Clone the Repository from GitHub
 ```bash
-git clone <your-repo-url>
+git clone <(https://github.com/YagelAL/Advn_DL_proj)>
 cd ADL
 ```
 
