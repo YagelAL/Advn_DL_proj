@@ -9,6 +9,40 @@ The project combines both manual and automated training pipelines, incorporates 
 The main models utilized are RoBERTa and DeBERTa, with careful hyperparameter tuning and checkpoint management to optimize performance.
 The workflow is designed to be modular, reproducible, and adaptable to similar text classification tasks.
 
+## Directory Layout
+
+```text
+ADL/
+├── EDA.ipynb
+├── train_manual.ipynb
+├── train_HF.ipynb
+├── sqeeze_models.ipynb
+├── requirements.txt
+├── README.md
+├── image.jpg
+├── Dataset/
+│   ├── Corona_NLP_train.csv
+│   └── Corona_NLP_test.csv
+├── data/
+│   ├── train_df.csv
+│   ├── eval_df.csv
+│   └── test_df.csv
+├── checkpoints/
+│   └── ...
+├── roberta_results_HF/
+│   └── ...
+├── deberta_results_HF/
+│   └── ...
+├── distillation_results/
+│   └── ...
+├── wandb/
+│   └── ...
+└── ...
+```
+
+
+
+
 ## Notebooks
 
 ### 1. EDA.ipynb
