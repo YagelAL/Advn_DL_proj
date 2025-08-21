@@ -1,7 +1,10 @@
 # Advanced Deep Learning Project: Sentiment Analysis of COVID-19 Tweets
 
 ## Project Overview
-This repository contains a comprehensive workflow for sentiment analysis on COVID-19 tweets using advanced deep learning models. The project leverages both manual and automated training approaches, model squeezing/distillation, and exploratory data analysis (EDA). The main models used are RoBERTa and DeBERTa, with hyperparameter optimization and checkpoint management.
+This repository provides a complete workflow for sentiment analysis on COVID-19 tweets using state-of-the-art transformer models. 
+The project combines both manual and automated training pipelines, incorporates model compression techniques including distillation, and includes comprehensive exploratory data analysis (EDA). 
+The main models utilized are RoBERTa and DeBERTa, with careful hyperparameter tuning and checkpoint management to optimize performance.
+The workflow is designed to be modular, reproducible, and adaptable to similar text classification tasks.
 
 ## Notebooks
 
